@@ -8,7 +8,9 @@ Contact me at [dprakas5@asu.edu](mailto:dprakas5@asu.edu)
 
 
 Arizona State University, Tempe, AZ
+
 08/2017 – 12/2019
+
 Master of Science in Software Engineering, 3.19 CGPA
 
 
