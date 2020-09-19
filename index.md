@@ -16,17 +16,26 @@ Master of Science in Software Engineering, 3.19 CGPA
 
 
 **Languages**: Python, Java, JavaScript (ES6)
+
 **Web Services**: Microservices, RESTful
+
 **Web**: Express.js, Node.js, React
+
 **Frameworks**: Spring boot, Spock,Node.js, Angular( 5 and above)
-**Database**: MySQL, PostgreSQL, MongoDB, Redis Tools​: Docker, AWS, Kubernetes
+
+**Database**: MySQL, PostgreSQL, MongoDB, Redis 
+
+**Tools**: Docker, AWS, Kubernetes
+
 **SDLC**: Agile, Scrum, TDD, Git
 
 
 ### Professional Experience
 
 [**Cyr3con**](https://www.cyr3con.ai), Tempe, AZ
+
 **07/2019 - 08/2020**
+
 **Software Engineering Intern**, Backend team
 
 Spring boot application whose APIs were used by the clients and customer facing web application.
@@ -45,7 +54,9 @@ availability of the application.
 
 
 [**Accenture**](https://www.accenture.com), Tempe, AZ
+
 **08/2014 - 05/2016**
+
 **Associate Software Engineer**
 
 Reporting application project for Credit Suisse
