@@ -15,7 +15,7 @@ Master of Science in Software Engineering, 3.19 CGPA
 ### Technical Skills
 
 
-**Languages**: Python, Java, JavaScript (ES6) 
+**Languages**: Python, Java, JavaScript (ES6)
 **Web Services**: Microservices, RESTful
 **Web**: Express.js, Node.js, React
 **Frameworks**: Spring boot, Spock,Node.js, Angular( 5 and above)
