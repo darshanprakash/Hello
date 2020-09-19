@@ -4,7 +4,7 @@ Checkout my [Linkedin](https://www.linkedin.com/in/darshanprakash) and [GitHub](
 
 Contact me at [dprakas5@asu.edu](mailto:dprakas5@asu.edu)
 
-### Education
+## Education
 
 
 Arizona State University, Tempe, AZ
@@ -13,9 +13,7 @@ Arizona State University, Tempe, AZ
 
 Master of Science in Software Engineering, 3.19 CGPA
 
-
-### Technical Skills
-
+## Technical Skills
 
 **Languages**: Python, Java, JavaScript (ES6)
 
@@ -31,8 +29,7 @@ Master of Science in Software Engineering, 3.19 CGPA
 
 **SDLC**: Agile, Scrum, TDD, Git
 
-
-### Professional Experience
+## Professional Experience
 
 [**Cyr3con**](https://www.cyr3con.ai), Tempe, AZ
 
@@ -53,8 +50,6 @@ availability of the application.
 
 **Environment**: Git, Java 8 SDK, IntelliJ, PostgreSQL, Spring Boot, Docker, AWS, Spock, Redis, webhooks, Mongodb
 
-
-
 [**Accenture**](https://www.accenture.com), Tempe, AZ
 
 **08/2014 - 05/2016**
@@ -69,9 +64,7 @@ Reporting application project for Credit Suisse
 
 **Environment**: Java, Hibernate, Spring MVC, JUnit.
 
-
-### Projects & Hackathon
-
+## Projects & Hackathon
 
 - Developed a transient chat application called [ChannelX](https://channelx-714c6.firebaseapp.com/) using React and Firebase. 
 - Developed a Machine Learning [algorithm](https://github.com/MitaliK/DDI) using Bi-LSTM technique to extract concepts from drug’s Structured product Labels.
