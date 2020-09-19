@@ -6,25 +6,25 @@ Contact me at [dprakas5@asu.edu](mailto:dprakas5@asu.edu)
 
 ### Education
 
-```markdown
+
 Arizona State University, Tempe, AZ
 08/2017 – 12/2019
 Master of Science in Software Engineering, 3.19 CGPA
-```
+
 
 ### Technical Skills
 
-```markdown
+
 **Languages**: Python, Java, JavaScript (ES6) 
 **Web Services**: Microservices, RESTful
 **Web**: Express.js, Node.js, React
 **Frameworks**: Spring boot, Spock,Node.js, Angular( 5 and above)
 **Database**: MySQL, PostgreSQL, MongoDB, Redis Tools​: Docker, AWS, Kubernetes
 **SDLC**: Agile, Scrum, TDD, Git
-```
+
 
 ### Professional Experience
-```markdown
+
 [**Cyr3con**](https://www.cyr3con.ai), Tempe, AZ
 **07/2019 - 08/2020**
 **Software Engineering Intern**, Backend team
@@ -41,9 +41,9 @@ availability of the application.
 - Redesigned APIs and services to be more flexible to develop further.
 
 **Environment**: Git, Java 8 SDK, IntelliJ, PostgreSQL, Spring Boot, Docker, AWS, Spock, Redis, webhooks, Mongodb
-```
 
-```markdown
+
+
 [**Accenture**](https://www.accenture.com), Tempe, AZ
 **08/2014 - 05/2016**
 **Associate Software Engineer**
@@ -55,13 +55,13 @@ Reporting application project for Credit Suisse
 - Worked on various critical Break-fix service requests to debug and fix existing production issues, analyzed existing process flows, and implemented reliability, stability, and performance fixes.
 
 **Environment**: Java, Hibernate, Spring MVC, JUnit.
-```
+
 
 ### Projects & Hackathon
 
-```markdown
+
 - Developed a transient chat application called [ChannelX](https://channelx-714c6.firebaseapp.com/) using React and Firebase. 
 - Developed a Machine Learning [algorithm](https://github.com/MitaliK/DDI) using Bi-LSTM technique to extract concepts from drug’s Structured product Labels.
 - Geo-spatial analysis of NY Taxi hotspots using Apache Spark, Made use of Map & Reduce concepts to extract information from big data sets. Used Hadoop to distribute computing load on multiple clusters for efficiency.
 - Designed a static analytic reporting tool for a Non-profit using Angular JS and Chart JS at PayPal Opportunity Hack 2017, [Won the Most Galvanizing award](https://devpost.com/software/team-18-acee) for the project. [Demo](https://www.youtube.com/watch?v=KYlllJ-ucQE)
-```
+
